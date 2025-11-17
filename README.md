@@ -1,5 +1,5 @@
-# LanChatTool - Java LAN Multi - User Chat Tool
-A lightweight LAN chat tool implemented based on Java's native API, supporting a "1 server + multiple clients" architecture. It requires no additional dependencies, is easy to deploy, and is suitable for real - time communication scenarios within the same local area network.
+# LanChatTool  SE-1B 250429970 Tam Wing Ho
+
 
 ## Features
 - Core Functions: Group chat (broadcasting messages to all members) and private chat (one - to - one communication with a specified user)
