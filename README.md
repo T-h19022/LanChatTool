@@ -1,4 +1,4 @@
-# LanChatTool  SE-1B 250429970 Tam Wing Ho
+# LanChatTool  SE-1B 250429970
 
 
 ## Features
